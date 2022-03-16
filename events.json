@@ -1,0 +1,41 @@
+{
+   "status":true,
+   "data":[
+      {
+         "id":1,
+         "league":"Bundesliga",
+         "time":"12:00 AM",
+         "date":"2022-03-17",
+         "home":{
+            "name":"Mainz 05",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png"
+         },
+         "away":{
+            "name":"Borussia Dortmund",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+         },
+         "links":[
+            "https://content.jwplatform.com/manifests/IPYHGrEj.m3u8",
+            "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+         ]
+      },
+      {
+         "id":2,
+         "league":"Premier League",
+         "time":"12:00 AM",
+         "date":"2022-03-17",
+         "home":{
+            "name":"Arsenal",
+            "image":"https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+         },
+         "away":{
+            "name":"Liverpool",
+            "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+         },
+         "links":[
+            "https://content.jwplatform.com/manifests/IPYHGrEj.m3u8",
+            "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+         ]
+      }
+   ]
+}
